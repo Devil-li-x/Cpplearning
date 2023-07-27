@@ -1,0 +1,3 @@
+/home/li/C++ learning/类/Friends/build/CMakeFiles/main_exe.dir
+/home/li/C++ learning/类/Friends/build/CMakeFiles/edit_cache.dir
+/home/li/C++ learning/类/Friends/build/CMakeFiles/rebuild_cache.dir
