@@ -27,7 +27,7 @@ public:
                          <<std::setw(2)<<width<<","
                          <<std::setw(2)<<height<<")";
     };
-    ~Box();
+    ~Box() = default;
 };
 
 
