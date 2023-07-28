@@ -1,4 +1,4 @@
-#ifndef PACKAGE_H;
+#ifndef PACKAGE_H
 #define PACHAGE_H
 
 #include<memory>
